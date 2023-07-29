@@ -5,12 +5,12 @@ body {
 
 .container {
     max-width: none !important;
-    background-image: https://raw.githubusercontent.com/TheBugCoder/ChromaGlowThemeBetterD/main/discord-chroma-bg.png !important;
+    background: linear-gradient(to bottom right, #0eb6bf, #4128db, #a208a7, #9a53ff, #2189e0, #2189e0) !important;
 }
 
 .avatar-container .Player-username {
     font-size: 2em;
-    font-family: "Comic Sans MS", cursive, serif;
+    font-family: "Impact";
 }
 
 h2, h3 {
